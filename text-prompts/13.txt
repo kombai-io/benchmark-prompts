@@ -1,0 +1,2 @@
+Develop a pricing plan selection page for a web application. Include a header section with a title and a toggle switch for selecting between monthly and yearly billing options. Design three horizontally aligned pricing cards, each displaying the plan price, a list of included features, and a selection button. Add a top bar featuring a search input and notification icons for user accessibility. Incorporate a decorative area with abstract shapes above the pricing cards to enhance the visual presentation.
+

@@ -1,0 +1,12 @@
+You are an expert code reviewer.
+
+You are provided with a set of React code files.
+
+Review these code files and assess whether the code fulfills the functionality described in the criteria below:
+
+{criteria}
+
+The implementation may use either a component from a library or a custom-built solution. Both are acceptable.
+
+Some secondary aspects of the criterion, especially those not explicitly visible in the image might be unimplemented. Such omissions are acceptable and should still be considered a match.
+

@@ -1,0 +1,1 @@
+Develop a feature that displays hotel listings with key information. Use a grid layout with individual cards for each hotel. Include the hotel name, district, and a short description. Display a star rating along with the number of reviews. Add the price in USD. Show a location icon next to the district name. Implement a heart icon to mark favorites. 

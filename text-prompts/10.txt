@@ -1,0 +1,2 @@
+Create a streaming platform interface that highlights featured content prominently. Include a large banner for the main content, displaying the title, release year, season count, and rating tags. Place a play button and an info button beneath the main content description for quick access. Display a horizontal carousel showcasing popular content thumbnails, each with a title shown underneath. Incorporate a top navigation bar with sections for search functionality, notifications, and user profile access.
+

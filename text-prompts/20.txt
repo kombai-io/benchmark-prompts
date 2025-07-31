@@ -1,0 +1,2 @@
+Create a webpage with a navigation bar containing links to Home, About, Blog, and Projects. Include a main heading with a call to action message. Add a subheading explaining the company’s services. Provide buttons for users to contact and learn more about the company. Integrate social media icons for user interaction. Incorporate a visual element of a building roof in the lower right corner. Implement an arrow icon indicating downward scrolling.
+

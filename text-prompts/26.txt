@@ -1,0 +1,1 @@
+Create a digital catalog with a grid layout to showcase products. Implement three columns with images for each product. Place a heart icon in the top right corner of each image to mark favorites. Display product names and prices below each image. Include color selection circles beneath the product name.

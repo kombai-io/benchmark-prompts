@@ -1,0 +1,109 @@
+GUIDELINES_PROMPT 
+
+## 1. Theming and Style Management
+
+- **Theme Consistency**
+  - All colors and styles must be managed via a centralized theme (e.g., global theme files, tokens).
+  - No direct hardcoding of color or style values.
+
+- **Avoid Inline Styles**
+  - Do not use inline styles in components or HTML elements.
+  - All styling should be defined in style files, theme files, or centralized style systems.
+
+- **Consistent Styling Approach**
+  - Use a single styling methodology (CSS modules, styled-components, global CSS, etc.) throughout the project.
+  - Avoid mixing multiple CSS methodologies.
+
+---
+
+## 2. Component Structure and Reusability
+
+- **Component Granularity**
+  - Avoid creating large, monolithic components.
+  - Break the UI into clear, reusable, purpose-specific components.
+
+- **Duplication Avoidance**
+  - Repeated markup, styles, or logic must be abstracted into reusable components or utilities.
+
+- **Prop Management**
+  - Do not pass large or complex objects directly inline as props.
+  - Move complex data into constants or dedicated data/service files.
+
+---
+
+## 3. Visual Fidelity and Design Accuracy
+
+- **Accuracy to Mockups**
+  - Visual output must closely match provided designs or mockups.
+  - All sections, layouts, and visual elements must be fully implemented.
+
+- **Consistent UI Patterns**
+  - UI patterns and variants must be consistently applied as per design specifications.
+  - Chart or visualization variants must precisely match requirements.
+
+---
+
+## 4. Data Management and API Integration
+
+- **No Hardcoded Data**
+  - All data must come from APIs or centralized mock data services.
+  - No hardcoded data values inside UI components.
+
+- **Dedicated API and Data Layers**
+  - API and data-fetching logic must be separate from UI components.
+  - Mock data must not be embedded in components; place it in appropriate mock/data files.
+
+---
+
+## 5. Type Safety and Data Handling
+
+- **Strict Typing**
+  - All data, props, and return values must have explicit types or interfaces.
+  - Avoid using untyped or loosely typed variables (such as `any`).
+
+- **Data Formatting Logic**
+  - Data formatting and transformation logic should be accurate, centralized, and consistently reused.
+
+---
+
+## 6. Layout and Flexbox Management
+
+- **Dedicated Layout Components**
+  - Use layout utilities or components to handle grid/flex logic.
+  - Avoid repeatedly applying flex or CSS layout properties in multiple components; abstract into utilities or components.
+
+---
+
+## 7. General Coding Practices
+
+- **Code Organization**
+  - Maintain clear separation of concerns: components, styling, data-fetching, logic, and utilities.
+  - Keep files organized; avoid placing too much logic in a single file.
+
+- **Consistent Implementation**
+  - Consistently follow coding conventions and patterns for naming, structure, and data management.
+  - Ensure uniformity for readability and maintainability.
+
+- **No Dead or Unused Code**
+  - Remove unused, redundant, or unnecessary code (such as unused stores, themes, or mock layers).
+
+---
+
+
+EVALUATION_CRITERIA 
+
+## Evaluation Criteria
+- Centralized theming (no hardcoded colors/styles)
+- No inline styles
+- Single, consistent styling approach
+- Clear component breakdown; no monolithic components
+- No repeated markup or logic—use reusable components
+- No inline large JSON/props—use constants or data files
+- Consistent use of UI patterns/variants
+- All data via API or mock service—not hardcoded
+- Separate API/data logic from UI
+- Strict typing everywhere; no `any`
+- Centralized data formatting logic
+- Dedicated layout components/utilities
+- Clear separation of concerns and code organization
+- No unused or dead code

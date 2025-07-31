@@ -1,0 +1,2 @@
+Develop a job search application interface with a focus on user interaction and clear presentation of job listings. Display a main content area featuring job cards that include job titles, brief descriptions, and action buttons for applying or messaging. Implement a search bar at the top to query job roles, locations, and salary ranges, along with a search button. Include a filter section enabling users to refine results by job type and experience level. Integrate a job alert notification feature with an email input field to subscribe for updates.
+

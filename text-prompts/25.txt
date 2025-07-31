@@ -1,0 +1,1 @@
+Develop a shopping cart interface for an online store. Display a list of products with options for quantity, size, and color. Include buttons to increase or decrease quantity and an option to remove items. Show the total price next to each product. Add a "Check Out" button at the bottom.

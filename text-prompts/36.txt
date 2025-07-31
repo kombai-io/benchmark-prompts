@@ -1,0 +1,8 @@
+Design a web interface for a mountain exploration application. Implement a header with navigation links for seamless access to key sections. Place a prominent search bar below the main heading to facilitate easy navigation. Create a section for popular mountains, showcasing images and brief descriptions to engage users. Highlight services for hiking destinations and equipment with images and detailed descriptions. Add a user reviews section with customer feedback and navigation arrows for easy browsing. Provide a recent news section with clickable articles to keep users informed. Include a newsletter subscription form with input fields and a submission button. Ensure the footer contains essential contact information and navigation links for comprehensive site access.
+
+
+
+
+
+
+

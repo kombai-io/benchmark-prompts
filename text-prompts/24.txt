@@ -1,0 +1,1 @@
+Implement a filter sidebar for an online shopping platform. Include sections for Sorting, Size, Color, Collection, and Fabric. Use checkboxes for selections within each category. Ensure each section is collapsible with a toggle function. Display all sections in a vertical layout with clear labels.

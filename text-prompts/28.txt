@@ -1,0 +1,1 @@
+Develop a user interface to display room options for booking. Include details such as room type, size in square meters, bed type, and guest capacity. Display availability status and price per night. Implement sorting and filtering options for room types. Add a button to add new rooms. Ensure each room entry includes an image and a concise description.

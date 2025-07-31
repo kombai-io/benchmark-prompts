@@ -1,0 +1,2 @@
+Design a user-friendly interface for a hotel search application. Implement a search results section with view options for card, list, and grid layouts, accompanied by sorting and filtering functionalities to match user preferences. Integrate an interactive map display on one side to provide geographical context. Add user interaction elements, including icons for managing favorites and accessing the user profile. Ensure the interface supports pagination to enable smooth navigation across multiple pages of search results.
+

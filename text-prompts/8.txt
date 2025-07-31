@@ -1,0 +1,2 @@
+Design a user interface for a settings management application. Include organized sections for managing shop profiles, security settings, notification preferences, and theme customization. Add input fields for entering the shop name and username. Provide an area for uploading a shop logo. Implement a navigation bar with icons to access different settings features. Integrate social media links management, offering options to edit or delete each entry. Ensure a clearly visible "Save Changes" button is present to confirm updates.
+

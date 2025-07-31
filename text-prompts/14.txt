@@ -1,0 +1,2 @@
+Design a task management interface with distinct sections representing different task statuses. Integrate an area for task cards that include checkboxes, task titles, due dates, and category labels. Include a dedicated section to display team members assigned to each task. Place a top row with buttons for toggling list view, applying sorting options, and filtering tasks. Add separate buttons for importing/exporting tasks and for creating a new task.
+

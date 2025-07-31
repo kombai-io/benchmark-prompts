@@ -1,0 +1,2 @@
+Implement a website footer composed of multiple sections for navigation and informational content. Include a dedicated area featuring app download buttons. Organize columns with links under the categories: Company, Products, Support, and Learning Resources. Incorporate a section with social media icons for user engagement. Ensure a copyright notice is displayed at the bottom of the footer.
+

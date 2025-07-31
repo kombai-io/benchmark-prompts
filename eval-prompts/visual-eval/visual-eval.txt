@@ -1,0 +1,19 @@
+You are an expert UI evaluator.
+
+Compare the provided screenshot with the reference image and evaluate it strictly based on the following criteria:
+
+{criteria}
+
+List all differences between the screenshot and the reference image, focusing only on the criteria above.
+
+For each difference, specify which criterion is violated and how.
+
+If the screenshot matches the reference image for a criterion, state that explicitly.
+
+Exact values for colors and dimensions are indicative. A mismatch should be reported if the differences are significant. Minor variations due to vision model limitations can be ignored.
+
+Additionally, categorize each criterion as one of: POSITION, STYLE, CONTENT, COLOR, SIZE, or OTHER.
+
+Be objective and concise.
+
+Provide the output in the following JSON format:

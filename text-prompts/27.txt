@@ -1,0 +1,1 @@
+Develop a contact card feature for displaying user information. Each card should include a profile picture, name, organization, email, and phone number. Add a checkbox for selection and a menu icon for additional options. Implement pagination at the bottom to navigate through multiple cards.
